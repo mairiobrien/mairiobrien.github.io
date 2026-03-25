@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mairi O'Brien, PhD"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
