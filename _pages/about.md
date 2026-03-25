@@ -13,7 +13,8 @@ I completed my PhD in 2025 at Warwick, and was supervised by [Pier-Emmanuel Trem
 
 My main research interests are:
 
-  * Statistics of white dwarf samples: 
+  * # Statistics of white dwarf samples:
+    Explain.
   * List item two
   * List item three
   * List item four
