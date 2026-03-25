@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Mairi O'Brien / Academic Webpage"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Mairi O'Brien"
 title_separator          : "-"
 name                     : &name "Mairi O'Brien"
 description              : &description "Mairi O'Brien"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "mairiobrien/mairiobrien.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.png"
   name             : "Mairi O'Brien"
   pronouns         : "she/her"  
   bio              : "Postdoctoral Research Fellow | Astrophysics"
