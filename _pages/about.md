@@ -15,3 +15,5 @@ My main research interests are:
 
   * **White dwarf atmospheres**: Identifying, characterising and fitting spectra of white dwarfs in the ultraviolet (HST STIS), optical (VLT X-shooter), and infrared (JWST NIRSpec and MIRI). Analysing the composition of planetary debris accreted onto helium-rich atmosphere white dwarfs. Testing state-of-the-art atmosphere models on multi-wavelength datasets to identify opacity issues.
   * **White dwarf demographics (samples and surveys)**: Statistics of local volumes of white dwarfs identified by Gaia - 40 pc (optical) and 13 pc (ultraviolet and infrared). Space density, completeness and age/mass distribution analysis.
+
+For a list of all first-author and co-author publications, please see my [ADS Library](https://ui.adsabs.harvard.edu/user/libraries/WVLc9vQuQRG8JTh3C7UnXA).
