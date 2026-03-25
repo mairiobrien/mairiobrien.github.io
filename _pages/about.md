@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral research fellow in the Astronomy and Astrophysics group at the University of Warwick.
+I am a postdoctoral research fellow in the [Astronomy and Astrophysics](https://warwick.ac.uk/fac/sci/physics/research/astro/) group at the University of Warwick.
