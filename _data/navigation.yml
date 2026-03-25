@@ -17,11 +17,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Telescope Time"
+    url: /telescope/
     
-  - title: "CV"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
