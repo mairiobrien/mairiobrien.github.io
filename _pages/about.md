@@ -13,5 +13,5 @@ I completed my PhD in 2025 at Warwick, and I was supervised by [Pier-Emmanuel Tr
 
 My main research interests are:
 
-  * **White dwarf atmospheres**: Identifying, characterising and fitting spectra of white dwarfs in the ultraviolet (Hubble STIS) and optical (VLT X-shooter). Analysing the composition of planetary debris accreted onto helium-rich atmosphere white dwarfs. Testing state-of-the-art atmosphere models on multi-wavelength datasets to identify opacity issues.
+  * **White dwarf atmospheres**: Identifying, characterising and fitting spectra of white dwarfs in the ultraviolet (Hubble STIS), optical (VLT X-shooter), and infrared (JWST NIRSpec and MIRI). Analysing the composition of planetary debris accreted onto helium-rich atmosphere white dwarfs. Testing state-of-the-art atmosphere models on multi-wavelength datasets to identify opacity issues.
   * **White dwarf demographics (samples and surveys)**: Statistics of local volumes of white dwarfs identified by Gaia - 40 pc (optical) and 13 pc (ultraviolet and infrared). Space density, completeness and age/mass distribution analysis.
