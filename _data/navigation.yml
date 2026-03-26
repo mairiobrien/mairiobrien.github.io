@@ -11,5 +11,5 @@ main:
   - title: "Publications"
     url: /publications/ 
     
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "CV"
+    url: /cv-json/
